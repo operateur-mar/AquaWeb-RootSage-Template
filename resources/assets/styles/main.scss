@@ -23,3 +23,9 @@
 @import "layouts/pages";
 @import "layouts/posts";
 @import "layouts/tinymce";
+
+
+$black: #000; 
+body{
+    background-color: $black;
+}
